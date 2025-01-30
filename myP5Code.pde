@@ -15,7 +15,13 @@ draw = function(){
   }
 
   //🎯New Text Code Should Go Here 🡻
-  
+fill(100,100,100);
+textSize(30);
+text("My Favorite Foods", 200,30);
+textSize(20)
+text("-Fruits", 200,80);
+text("-Noodles", 200,130);
+text("-Meat", 200,180);
 };
 
 //🟡Mouse Pressed Procedue - Runs When Mouse is Pressed on Canvas
